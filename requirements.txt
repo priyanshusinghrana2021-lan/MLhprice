@@ -1,4 +1,6 @@
 pandas
 scikit-learn==1.6.1
 streamlit
+altair.vegalite.v4'
 numpy
+matplotlib
